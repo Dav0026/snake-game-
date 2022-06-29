@@ -1,0 +1,85 @@
+.block-one{
+    padding: 10px ;
+    width: 100%;
+}
+.block{
+    width: 100%;
+}
+h1 {
+    text-align: center;
+    width: 33%;
+}
+
+.bg-black {
+    background-color: black !important;
+}
+
+/*#main{*/
+/*    border: 30px solid black;*/
+/*}*/
+
+.matrix {
+
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    padding: 2px;
+    border: 3px solid #efe6e6;
+    background-color: #e8e8e3;
+}
+
+
+.bonusFood{
+    border-color: chocolate;
+    transform: scale(1,1.5)
+}
+
+.bg-food{
+    background-color: #151414;
+}
+
+
+.the-Wall{
+    /*opacity: 10%;*/
+    background-color: #424344;
+    border-color: #090808;
+}
+
+#score {
+    font-size: 30px;
+    justify-content: center;
+    width: 100%;
+    display: flex;
+}
+#high-score{
+    font-size: 30px;
+    justify-content: center;
+    width: 100%;
+    display: flex;
+}
+.cont-score{
+    padding:0 10px 10px 10px;
+    border: solid 5px #ef0d0d;
+    width: 50%;
+}
+.right-top{
+    width: 33%;
+    display: flex;
+
+}
+h4{
+    width: 100%;
+    text-align: center;
+    margin: 0 0 10px 0px;
+}
+.top-cont{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.left-top{
+    display: flex;
+    width: 33%;
+}
+
